@@ -1,1 +1,2 @@
-# next.js-helloworld
+npm i
+npm run dev

@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  padding: 0px;
+	background-color: #1d1d1d;
+  color: white;
+  font-family: Helvetica;
+}
+
+h1{
+  margin-top: 25px;
+  text-align: center;
+}
